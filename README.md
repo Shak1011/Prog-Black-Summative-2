@@ -8,7 +8,7 @@ To complete this task I have decided that I need to branch out and learn another
 
 To start learning Rust I have decided to consult many youtube videos to teach me the very basics. 
 
-###Objectives
+### Objectives
 * Finalise design of badminton ranking app 
 * Divide work equally among the group giving us all set goals
 * Continue learning the basics of rust
