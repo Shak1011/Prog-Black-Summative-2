@@ -14,3 +14,25 @@ To start learning Rust I have decided to consult many youtube videos to teach me
 * Continue learning the basics of rust
 * Learn an efficient way to connect the front-end JavaScript to the back-end Rust
 https://github.com/Shak1011/TKS-APP
+
+## Entry 2 - 03/03/2023
+
+
+
+
+## Entry 3 - 10/03/2023
+
+
+
+
+## Entry 4 - 17/03/2023
+
+## Entry 5 - 24/03/2023
+
+## Entry 6 - 31/03/2023
+
+## Entry 7 - 07/04/2023
+
+## Entry 8 - 14/04/2023
+
+## Entry 8 - 22/04/2023
