@@ -16,6 +16,12 @@ However, I do not recomend this personally as I genuinly just believe that rust 
 Therefore I personally recommend you learn how to code in one other language first specifically python due to its ease of use and versitility. This can be done in a many ways but the way I recommend is through freeCodeCamp.org's entire course on it 
 
 # To Start Learning Rust
+I personally the best way to learn a programming language is through using it and making mistakes. Consequently, I recommend working on small projects and expanding from there. This allows you to get more comfortable with the syntax of the language as you learn it however a basis is required to start you of and this is where I recommend reading the Rust Basic's book https://www.rust-lang.org/learn. This is because it teaches you rust from first principles and whilst you are reading it completing some tasks such as adding two numbers and basic conditions but as you should start of with in any programming language printing "hello world" into the console.
+
+Tutorials that allow you to follow along are useful however if they do not also teach you understanding of what you are doing you are not really learning but just copying someone else mindlessly. Though, if you keep this into account whilst you are watching the tutorials they can be the best way to learn a langauage. The one I recommend the most is the rust programming tutorial by Tech With Tim due to him not only going through small programs such as adding two numbers but also explains every step he is doing and why he is doing it:
+https://www.youtube.com/watch?v=T_KrYLW4jw8&list=PLzMcBGfZo4-nyLTlSRBvo0zjSnCnqjHYQ
+
+Once you have learnt the basics of Rust I recommend you use it in a more complex way, this forces you to not only stretch your thinking and understanding of the way rust works but also forces you to research different libraries rust is able to use. Furthermore, it forces you to learn how rust works with other languages as one of its main benefits is being able to be compiled and turned into a dynamic library allowing languages such as javascript being able to access it. One is never fully knowledgable especially when it comes to computer science but if youre able to do this it allows you to solve through research any problems you could face.
 
 # Evaluation
 
