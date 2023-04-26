@@ -1,4 +1,3 @@
-
 # Learning Log - Shakeel Gani
 https://github.com/Shak1011/TKS-APP
 ## Entry 1 - 03/03/2023
@@ -8,33 +7,48 @@ To complete this task I have decided that I need to branch out and learn another
 
 To start learning Rust I have decided to consult many youtube videos to teach me the very basics. 
 
-### Objectives
+### Objectives For Next Week
 * Finalise design of badminton ranking app 
 * Divide work equally among the group giving us all set goals
 * Continue learning the basics of rust
 * Learn an efficient way to connect the front-end JavaScript to the back-end Rust
-https://github.com/Shak1011/TKS-APP
 
 ## Entry 2 - 03/03/2023
-This week we finalized a group and plan. I will be developing the Log In and Register screen in HTML. Set up a serving using Node Js. And use Rust to create a Hashing Algorithm as well as a database and be able to input new users into the databases.
-In terms of the learning of rust I have learnt how to do the basics such a setting up a rust file using cargo build, As well as learning how variables and data types work as well as inputs and arthmetics and type casting
+This week we finalized a group and plan. I will be developing the Log In and Register screen in HTML and Javascript. Furthermore I will be setting up a server using Node Js. I will use Rust to append users into the database due to its high effiency in data managment and I will also use Rust to hash the passwords. THis means I will have to learn how to call Rust code from Javascript and pass information between the two. This is something I have never done before only ever coding in one langauge so it will be a new experience for me. 
+
+In terms of learning Rust this week I have learnt how to do the basics such a setting up a rust file using cargo build. Furthermore, I have also been learning how variables and data types work in Rust (which is significantly harder than python due to having to specify the data type of the variable). I also managed to figure out how inputs work as well as basic arthmetics and type casting. This was done by me following this Youtube tutorial, https://www.youtube.com/watch?v=T_KrYLW4jw8&list=PLzMcBGfZo4-nyLTlSRBvo0zjSnCnqjHYQ , and the result of it can be seen in my Rust Tutorials file. 
+
+### Objectives For Next Week
+* Set Up HTML page 
+* Continue learning the basics of Rust
+* Learn Hashing with Rust
+* Set up a NodeJs server
 
 ## Entry 3 - 10/03/2023
-This week i took a break from rust and spent it doing the html and nodejs work.
+This week I decided to take a break from learning Rust and therefore focused on the client side aspect of it. For that reason I spent my time creating the HTML page for the Log In system. I also created the JavaScript code to send information from the client to to the server once the server was set up and running. For the time being I just passed the information from the HTML forms as Json information as I have not yet managed to figure out how to run rust code within javascript. This was significantly easier for me as I used my experience from the previous coursework to do it.
 
+### Objectives For Next Week
+* Set up a NodeJs server
+* Finish learning the basics of Rust
+* Learn Hashing with Rust
+* Learn how to intergrate rust code within Javascript
 
 ## Entry 4 - 17/03/2023
-This week i finished learning the basics of rust so that i can start coding, This involed me learning about conditios and how functions work in rust. Furthermore I delved deeper into how memory managment works in Rust
+This week I decided to go back to learning Rust and finally finished the basics. This involved everything from me learning about conditions to how to access and use functions in Rust. I also learned how to import on Rust and this allowed me to access Rust code I had written in other files. Furthermore, I learnt more about the Cargo.toml file which allowed me to compile my rust code into dynamic libraries which not only makes the code much more efficient when running but also is the first steps towards being able to use Rust in Javascript.
 
-## Entry 5 - 24/03/2023
-This week I learnt how to set up and use databases in Rust and finished setting up a server on Node Js.
+I also learnt how to use the SQLX import in Rust which allows me to create SQL databases in Rust via the use of SQL queries. This not only means that after brushing on up on my SQL I managed to create a database with a user table and input information into it. I also finished setting up the NodeJS server and currently have data from my HTML forms being appended into a JSON file on the server side.
 
+### Objectives For Next Week
+* Learn Hashing with Rust
+* Learn how to intergrate rust code within Javascript
 
-## Entry 7 - 07/04/2023
-Finished hashing algorithm
+## Entry 5- 07/04/2023
+This week I finished my Hashing algorithm by using SHA-2. However rather than a file I just Hash the password the user entered then converted the output from hex to characters and the characters are what I store in the database. 
 
-## Entry 8 - 14/04/2023
-Learning how to intergrate rust onto the front end and run rust code in node js
+### Objectives For Next Week
+* Learn how to intergrate rust code within Javascript
 
-## Entry 9 - 22/04/2023
-Completion of what i need to do
+## Entry 6- 26/04/2023
+This week I finally learnt how to intergrate Rust into Javascript following this youtube video: https://www.youtube.com/watch?v=kkc2Z_PI8E8&t=806s
+This can be seen in the Rust Tutorial file. I then used the information I learnt from this to finish of my nodejs server finally completing most of the goals I set. In reality I'd like to neaten up how my server works and also produce more messages to the users if people try to create an account if an account with that email already.
+Howevever I can now say I have managed to complete all my objectives I set out. I have created a Log In Page in HTML and Javascript using nodejs that allows for a user to create an account which is appended into an SQL database and allows a user to Log in and recieve the information about stored about themselves on the client side allowing my partners to use this for the rest of the website
