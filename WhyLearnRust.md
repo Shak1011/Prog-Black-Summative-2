@@ -14,3 +14,8 @@ As it allows one to catch up on data types and other cs basics before one learns
 However, I do not recomend this personally as I genuinly just believe that rust is very specific in what it can do and therfore to get someone into coding, it fails in the regard. Compared to languages like python which for someone learning to code for the first time you can easily teach them to make a quick game rust doesnt as easily allow for this. Furthermore having to define data types can be seen as boring for someone just starting of. 
 
 Therefore I personally recommend you learn how to code in one other language first specifically python due to its ease of use and versitility. This can be done in a many ways but the way I recommend is through freeCodeCamp.org's entire course on it 
+
+# To Start Learning Rust
+
+# Evaluation
+
