@@ -24,9 +24,7 @@ https://www.youtube.com/watch?v=T_KrYLW4jw8&list=PLzMcBGfZo4-nyLTlSRBvo0zjSnCnqj
 Once you have learnt the basics of Rust, I recommend you use it in a more complex way, this forces you to not only stretch your thinking and understanding of the way rust works but also forces you to research different libraries rust is able to use. Furthermore, it forces you to learn how rust works with other languages as one of its main benefits is being able to be compiled and turned into a dynamic library allowing languages such as JavaScript being able to access it. One is never fully knowledgeable especially when it comes to computer science but if you are able to do this it allows you to solve through research any problems you could face.
 
 # Evaluation
-Though Rust is easy to learn it fills such a specific niche case that I genuinely do not believe it is worth learning.
-
-There are other much more established languages that are used far more often in industry an example is C++. Both are high-performance, systems-level languages that allow for low-level memory manipulation and efficient code execution. And though rust has its benefits to C++ such as its being easier to learn and not being prone to certain security vulnerabilities I genuinely do not see Rust overtaking it in use any time soon.
+Though Rust is easy to learn it fills such a specific niche case that I genuinely do not believe it is worth learning. This is for many reasons but I think most importantly there are other much more established languages that are used far more often in industry in a similiar way. an example is C++. Both are high-performance, systems-level languages that allow for low-level memory manipulation and efficient code execution. And though rust has its benefits to C++ such as its being easier to learn and not being prone to certain security vulnerabilities I genuinely do not see Rust overtaking it in use any time soon.
 
 Even though it may not be used frequently that may be a benefit. This is because by learning and filling that niche is one of the best ways to make money especially in the computer science field.
 
