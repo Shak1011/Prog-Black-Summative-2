@@ -43,7 +43,7 @@ I also learnt how to use the SQLX import in Rust which allows me to create SQL d
 * Learn how to intergrate rust code within Javascript
 
 ## Entry 5- 07/04/2023
-This week I finished my Hashing algorithm by using SHA-2. However rather than a file I just Hash the password the user entered then converted the output from hex to characters and the characters are what I store in the database. 
+This week I finished my Hashing algorithm by using SHA-2. However rather than a file I just Hash the password the user entered then converted the output from hex to characters and the characters are what I store in the database. This can be seen in the file Rust Tutorial under the title Hashing.
 
 ### Objectives For Next Week
 * Learn how to intergrate rust code within Javascript
