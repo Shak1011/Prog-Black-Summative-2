@@ -26,5 +26,5 @@ Once you have learnt the basics of Rust, I recommend you use it in a more comple
 # Evaluation
 Though Rust is easy to learn it fills such a specific niche case that I genuinely do not believe it is worth learning. This is for many reasons but I think most importantly there are other much more established languages that are used far more often in industry in a similiar way. an example is C++. Both are high-performance, systems-level languages that allow for low-level memory manipulation and efficient code execution. And though rust has its benefits to C++ such as its being easier to learn and not being prone to certain security vulnerabilities I genuinely do not see Rust overtaking it in use any time soon.
 
-Even though it may not be used frequently that may be a benefit. This is because by learning and filling that niche is one of the best ways to make money especially in the computer science field.
+Even though it may not be used frequently that may be a benefit. This is because by learning and filling that niche is one of the best ways to make money especially in the computer science field. 
 
