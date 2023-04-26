@@ -1,6 +1,6 @@
 
 # Learning Log - Shakeel Gani
-
+https://github.com/Shak1011/TKS-APP
 ## Entry 1 - 03/03/2023
 For this assignment I have decided I want to familiarise myself with app development something in which I have very little experience in. Therefore I have spearheaded a project to create a ranking app for all badminton players in durham with the goal to give each player an everchanging rating depending on your wins and loses. 
 
