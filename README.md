@@ -52,3 +52,5 @@ This week I finished my Hashing algorithm by using SHA-2. However rather than a 
 This week I finally learnt how to intergrate Rust into Javascript following this youtube video: https://www.youtube.com/watch?v=kkc2Z_PI8E8&t=806s
 This can be seen in the Rust Tutorial file. I then used the information I learnt from this to finish of my nodejs server finally completing most of the goals I set. In reality I'd like to neaten up how my server works and also produce more messages to the users if people try to create an account if an account with that email already.
 Howevever I can now say I have managed to complete all my objectives I set out. I have created a Log In Page in HTML and Javascript using nodejs that allows for a user to create an account which is appended into an SQL database and allows a user to Log in and recieve the information about stored about themselves on the client side allowing my partners to use this for the rest of the website
+
+
